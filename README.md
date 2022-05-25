@@ -4,7 +4,7 @@
 ## Features 🥁
 - Infinite Scrolling
 - Unsplash API [https://unsplash.com/documentation](https://unsplash.com/documentation)
-- Loader for initial load created by [https://loading.io/](url)
+- Loader for initial load created by [https://loading.io/](https://loading.io/)
 
 ## Techniques 🛠
 
