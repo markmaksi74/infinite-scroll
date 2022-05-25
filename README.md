@@ -1,5 +1,5 @@
 ## Demo ⚡
-[https://markmaksi74.github.io/infinite-scroll/](url)
+[https://markmaksi74.github.io/infinite-scroll/](url){:target="_blank" rel="noopener"}
 
 ## Features 🥁
 - Infinite Scrolling
