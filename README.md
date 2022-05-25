@@ -24,4 +24,4 @@
 
 - The illusion of infinite scroll is created when `fetch('API_URL')` is called when `window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000` $-1000px$
 
-- Target Large Smartphone screens: `@media screen and (max-width: 600px) {}`
+- Target **Large Smartphone screens**: `@media screen and (max-width: 600px) {}`
