@@ -1,9 +1,9 @@
 ## Demo ⚡
-[https://markmaksi74.github.io/infinite-scroll/](url)
+[https://markmaksi74.github.io/infinite-scroll/](https://markmaksi74.github.io/infinite-scroll/)
 
 ## Features 🥁
 - Infinite Scrolling
-- Unsplash API [https://unsplash.com/documentation](url)
+- Unsplash API [https://unsplash.com/documentation](https://unsplash.com/documentation)
 - Loader for initial load created by [https://loading.io/](url)
 
 ## Techniques 🛠
