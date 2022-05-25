@@ -6,9 +6,9 @@
  * window > document > body
  *
  * window.innerHeight ===> total height of browser window
- * window.scrollY ===> distance from top of page user has scrolled
- * document.body.offsetHeight ===> height of everything in the body, including what is not within view
- * document.body.offsetHeight - 1000px to trigger fetch() before bottom is reached
+ * `window.scrollY` is the distance from top of page user has scrolled
+ * `document.body.offsetHeight` is height of everything in the body, including what is not within view
+ * `document.body.offsetHeight` - 1000px to trigger fetch() before bottom is reached
  *
  * onLoad event will be called when the image gets loaded
  */
