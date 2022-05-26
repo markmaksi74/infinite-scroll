@@ -26,7 +26,7 @@
 
 - Make the loader in the center of the page regardless of scrolling:
 ```
-.child {
+.loader {
     position: fixed;
     top: 50%;
     left: 50%;
