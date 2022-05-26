@@ -24,4 +24,14 @@
 
 - The illusion of infinite scroll is created when `fetch('API_URL')` is called when `window.innerHeight + window.scrollY >= document.body.offsetHeight - 1000` $-1000px$
 
+- Make the loader in the center of the page regardless of scrolling:
+```
+.child {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+```
+
 - Target Large Smartphone screens: `@media screen and (max-width: 600px) {}`
