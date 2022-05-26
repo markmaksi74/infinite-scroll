@@ -23,7 +23,7 @@
 }
 ```
 
-- Target Large Smartphone screens: `@media screen and (max-width: 600px) {}`
+- Target Large Smartphone screens (vertical): `@media screen and (max-width: 600px) {}`
 
 ### Javascript
 - `window` is the parent of the `documnet` and the grandparent of the `body`
